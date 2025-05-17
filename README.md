@@ -1,5 +1,7 @@
 # fecli
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/fe6/fecli.svg)](https://greenkeeper.io/)
+
 > 一键下载 github 仓库作为模板
 
 [![@fe6/fecli](https://img.shields.io/npm/v/@fe6/fecli.svg?style=flat-square)](https://www.npmjs.org/package/@fe6/fecli)
